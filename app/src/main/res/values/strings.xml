@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iRobotApp</string>
+
+    <!--Menu-->
+    <string name="clear_page">Clear</string>
+
+    <!--Color picker-->
+    <string name="pick_a_color">Pick a color</string>
+    <string name="cancel_pick_a_color">Cancel</string>
+</resources>
